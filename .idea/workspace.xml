@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53141f29-9b33-49d1-88a4-19284804ec1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Leltarozo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leltarozo.py" afterDir="false" />
+    <list default="true" id="53141f29-9b33-49d1-88a4-19284804ec1a" name="Changes" comment="Leltározó program a Komlós Néptánc Egyesület egyszerűbb adatbázis kezeléséhez.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,12 +62,25 @@
       <updated>1757764938271</updated>
       <workItem from="1757764939668" duration="5401000" />
       <workItem from="1757777251037" duration="297000" />
-      <workItem from="1757849299048" duration="7694000" />
+      <workItem from="1757849299048" duration="8082000" />
     </task>
+    <task id="LOCAL-00001" summary="Leltározó program a Komlós Néptánc Egyesület egyszerűbb adatbázis kezeléséhez.">
+      <option name="closed" value="true" />
+      <created>1757857432077</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757857432077</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Leltározó program a Komlós Néptánc Egyesület egyszerűbb adatbázis kezeléséhez." />
+    <option name="LAST_COMMIT_MESSAGE" value="Leltározó program a Komlós Néptánc Egyesület egyszerűbb adatbázis kezeléséhez." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Leltarozo$leltarozo.coverage" NAME="leltarozo Coverage Results" MODIFIED="1757856997017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
